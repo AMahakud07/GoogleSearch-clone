@@ -6,4 +6,6 @@ Tech Stack Used :
 2. Tailwind CSS
 3. Rapid API
 
-
+Functionality :
+1. Dark mode/ Light Mode
+2. 
