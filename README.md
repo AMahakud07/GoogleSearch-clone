@@ -8,4 +8,5 @@ Tech Stack Used :
 
 Functionality :
 1. Dark mode/ Light Mode
-2. 
+2. Search by Category
+3. 
