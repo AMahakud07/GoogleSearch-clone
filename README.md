@@ -10,5 +10,3 @@ Functionality :
 1. Dark mode/ Light Mode
 2. Search by Category i.e. All,News,Images,videos
 3. Debouncing
-
-asdasd
